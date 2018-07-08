@@ -1,0 +1,35 @@
+[
+  {
+    "constant": true,
+    "inputs": [
+      {
+        "name": "_blocknumber",
+        "type": "uint256"
+      },
+      {
+        "name": "_blocktimestamp",
+        "type": "uint256"
+      },
+      {
+        "name": "_difficulty",
+        "type": "uint256"
+      }
+    ],
+    "name": "validateHash",
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "payable": false,
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "payable": false,
+    "stateMutability": "nonpayable",
+    "type": "constructor"
+  }
+]
