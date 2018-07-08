@@ -22,3 +22,24 @@ cat winners.json | md5sum
 
 The output should be: `0773e8c356e4575581363544e8f56018`
 
+# How this works
+
+
+While the above process may seem unnecessarily complicated, it is actually the most transparent way of performing a random lottery. It ensures that nobody can influence or manupulate the outcome in any way, and it allows every participant to verify the correctness of the outcome.
+
+
+Let's break this whole process down.
+
+Earlier today, we published 3 different things: the **tickets.json** file, the **lottery.py** file and a **smart contract**.
+
+The tickets.json file contains a list of all lottery participants and their corresponding ticket values. The lottery.py file contains an implementation of the weighted Reservoir Sampling algorithm, which is capable of simulating the random drawing of tickets as would happen in an actual real-world lottery. The smart contract is simply there to give us the ability to turn an arbitrary block on the blockchain into a random long string of characters.
+
+The real trick here is that the lottery.py file requires an argument to run. We call this argument the Random Seed. While the lottery.py file does indeed randomly draw winners, the randomness is controlled by the Random Seed and as long as it is run with the *exact same* seed, it will always draw winners in the exact same order.
+
+So the question is, what Random Seed to we use? Do we use "hello, I am a seed"? Do we use "bethereum bounty lottery"? Or do we perhaps use some string of random characters like "zineytvlukzsdfhmgzlrt"?
+
+None of these seeds would truly be random, because someone could create a seed that ensures they get drawn among the first people! We needed a truly random seed that nobody could predict and nobody could manipulate. Thus we turned to the Blockchain. By deciding to use the hash of a block that had not been created yet as the Random Seed, we relinquish control over the lottery outcome and leave it entirely up to chance.
+
+As our seed, we chose the hash of block number 3595000, which would not be created for another few hours. Once the block was created, we used the smart contract to transform it into a truly unpredictable Random Seed, which turned out to be: 24720320868029256831056980548599233276942548680731582133364369473456750647913.
+
+This seed was then used to run the lottery and calculate the results that can be found in the **Results.MD** file.
