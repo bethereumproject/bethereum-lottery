@@ -1,8 +1,8 @@
-#Pseudorandom Hash Generator Smart Contract
+# Pseudorandom Hash Generator Smart Contract#
 
 Function **validateHash()** depends on three parameters passed after specified block number. First parameter as block number, second as a block timestamp and third as a block difficulty. Those parameters are passed into keccak256 hash function. Function accepting a finite set of bits into an giant imaginary rubik's cube which is then shunted about in a specific way. A subset of 256 bits are then returned. The function has the property that a change to a single input bit causes the output to change in an unpredictable way. To ensure simulating unpredictability we added the third parameter as block difficulty. We can predict block number closely to specific timestamp but we can predict exact block difficulty. Returned number is used as a hash to determine weekly competition lottery winners. After team will publish parameters used for winners determination at announced block number, you can validate winner determination by passing parameters into validateHash() function.
 
-###How to validate output hash with specified parameters
+### How to validate output hash with specified parameters
 
 Deployed at Ropsten network with address:
 ```
