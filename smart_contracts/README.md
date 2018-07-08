@@ -15,7 +15,7 @@ Deployed at Ropsten network with address:
 3. In section **Interact with Contract** and paste following params:
     - Contract address **0xf5722b1ff0a0ffc53447a6ccc50f91a62d5babc9**
     - ABI / JSON Interface from abi.json file
-4. Click **Access** and choose from dropdown **validateHash**
+4. Click **Access** and choose from dropdown function named **validateHash**
 5. Set parameters
     - **_blocknumber** as number of specified block
     - **_blocktimestamp** as unix timestamp of specified block (use convertor if needed)
