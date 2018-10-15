@@ -5,7 +5,7 @@ import random
 
 
 def fetch_data():
-    with open('tickets.json', 'r') as f:
+    with open('bountylottery.json', 'r') as f:
         tickets = json.loads(f.read())
         return [(d['username'], d['lottery_tickets']) for d in tickets]
 
@@ -30,15 +30,4 @@ if __name__ == '__main__':
 
     users = fetch_data()
 
-    top_500 = list()
-    top_2000 = list()
-
-    for _ in range(500):
-        top_500.append(draw(users))
-
-    for _ in range(2000):
-        top_2000.append(draw(users))
-
-    remainder = users
-
-    print(json.dumps(dict(top_500=top_500, top_2000=top_2000, remainder=remainder), sort_keys=True))
+    print(draw(users))
