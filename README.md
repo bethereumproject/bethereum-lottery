@@ -1,6 +1,6 @@
 # Lottery
 
-Block number for the lottery will be mined shortly on the Ropsten network! The block number we chose for this lottery is: **424140**
+Block number for the lottery will be mined shortly on the Ropsten network! The block number we chose for this lottery is: **4241400**
 
 # How this works
 
