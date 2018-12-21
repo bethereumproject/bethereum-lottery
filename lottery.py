@@ -30,15 +30,11 @@ if __name__ == '__main__':
 
     users = fetch_data()
 
-    top_500 = list()
-    top_2000 = list()
+    jackpot_winner = draw(users)[0]
 
-    for _ in range(500):
-        top_500.append(draw(users))
+    winners = list()
 
-    for _ in range(2000):
-        top_2000.append(draw(users))
+    for _ in range(100):
+        winners.append(draw(users)[0])
 
-    remainder = users
-
-    print(json.dumps(dict(top_500=top_500, top_2000=top_2000, remainder=remainder), sort_keys=True))
+    print(json.dumps(dict(winners=winners, jackpot_winner=jackpot_winner), sort_keys=True))
