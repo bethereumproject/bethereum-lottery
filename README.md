@@ -1,7 +1,6 @@
 # Lottery
 
 To run the lottery, make sure you are on a Unix system with **Python 2.7** installed. For a guide on how to install Python 2.7, click on your respective operating system:
-- [Windows](https://docs.python-guide.org/starting/install/win/)
 - [MacOS](https://docs.python-guide.org/starting/install/osx/)
 - [Linux](https://docs.python-guide.org/starting/install/linux/)
 
