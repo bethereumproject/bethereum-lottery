@@ -23,4 +23,4 @@ This will store the lottery outcome to the `results.json` file. You can check th
 cat results.json | | md5sum
 ```
 
-The output should be: `Unknown Yet`
+The output should be: `4b2594d9f4449a1869695dcbf1a7aa63`
