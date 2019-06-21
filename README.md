@@ -44,4 +44,111 @@ The output should be: `2ad7bb7fd4f1b100650300369244f797`
 
 ### Main prize winner	
 The player with the following username = `danny90` has won the **500k Bether token** prize!
- 
+
+### More winners	
+The players with the following usernames won **10000 Bether tokens** each. *You can use the CTRL+F (CMD+F on MacOS) command to find yourself in the winners table:*
+
+| Username         | Bether won   | 
+|------------------|--------------| 
+| raka01           | 10000 Bether | 
+| liron            | 10000 Bether | 
+| anism            | 10000 Bether | 
+| rodolfosd2       | 10000 Bether | 
+| koredz           | 10000 Bether | 
+| 10mintempmail    | 10000 Bether | 
+| shivdatt         | 10000 Bether | 
+| cryptoblockhole  | 10000 Bether | 
+| asepmartabak     | 10000 Bether | 
+| raykagen         | 10000 Bether | 
+| mustolihin       | 10000 Bether | 
+| fedupkpc         | 10000 Bether | 
+| baihaqi19        | 10000 Bether | 
+| sofi2001         | 10000 Bether | 
+| orange974        | 10000 Bether | 
+| butwousuble      | 10000 Bether | 
+| plapsu           | 10000 Bether | 
+| zaggo            | 10000 Bether | 
+| liacan1986       | 10000 Bether | 
+| paullumere       | 10000 Bether | 
+| riaret1973       | 10000 Bether | 
+| therearanton66   | 10000 Bether | 
+| zaker13          | 10000 Bether | 
+| lasha123         | 10000 Bether | 
+| polinagran       | 10000 Bether | 
+| comford1967      | 10000 Bether | 
+| petru1           | 10000 Bether | 
+| yusuffaisalhere  | 10000 Bether | 
+| yorshoweaged     | 10000 Bether | 
+| sagoint          | 10000 Bether | 
+| spiro87          | 10000 Bether | 
+| hussain65        | 10000 Bether | 
+| tipp01           | 10000 Bether | 
+| smokey           | 10000 Bether | 
+| aetorke          | 10000 Bether | 
+| dunca            | 10000 Bether | 
+| febri1992        | 10000 Bether | 
+| iqbalfauzan      | 10000 Bether | 
+| coco416          | 10000 Bether | 
+| aryadiichsan     | 10000 Bether | 
+| irfan14ms        | 10000 Bether | 
+| bitbetman        | 10000 Bether | 
+| euc771           | 10000 Bether | 
+| manla1980        | 10000 Bether | 
+| andi91           | 10000 Bether | 
+| rapaa            | 10000 Bether | 
+| dejmoshortatbitk | 10000 Bether | 
+| pdeji47          | 10000 Bether | 
+| daothuphuong1988 | 10000 Bether | 
+| hild1936         | 10000 Bether | 
+| muawal           | 10000 Bether | 
+| umar1986         | 10000 Bether | 
+| piligrimchik     | 10000 Bether | 
+| ranggasutrisna   | 10000 Bether | 
+| asiqul           | 10000 Bether | 
+| javiannamacaraeg | 10000 Bether | 
+| mesirila         | 10000 Bether | 
+| lisiak10         | 10000 Bether | 
+| abidprasetia15   | 10000 Bether | 
+| lezxe            | 10000 Bether | 
+| lufryazka        | 10000 Bether | 
+| xtung11a2        | 10000 Bether | 
+| masruhin         | 10000 Bether | 
+| rifurri          | 10000 Bether | 
+| onny23           | 10000 Bether | 
+| joker26          | 10000 Bether | 
+| nightmare1234    | 10000 Bether | 
+| kalimanurtorer   | 10000 Bether | 
+| djack            | 10000 Bether | 
+| enisho           | 10000 Bether | 
+| ljiljana11       | 10000 Bether | 
+| syahrullah       | 10000 Bether | 
+| lordmd           | 10000 Bether | 
+| ttkimihime       | 10000 Bether | 
+| quietanaem       | 10000 Bether | 
+| masterjiro58     | 10000 Bether | 
+| hongluutrdi      | 10000 Bether | 
+| sikax            | 10000 Bether | 
+| bahalbert        | 10000 Bether | 
+| kakaiboy         | 10000 Bether | 
+| aleksei432       | 10000 Bether | 
+| muhamadaripin    | 10000 Bether | 
+| kaka1307         | 10000 Bether | 
+| ericksaltos      | 10000 Bether | 
+| tatar63          | 10000 Bether | 
+| alyalfahri       | 10000 Bether | 
+| jenielorik       | 10000 Bether | 
+| muhammaddolly12  | 10000 Bether | 
+| madurochak       | 10000 Bether | 
+| coduchis         | 10000 Bether | 
+| stancon1979      | 10000 Bether | 
+| connor11         | 10000 Bether | 
+| billsons         | 10000 Bether | 
+| hlmn22           | 10000 Bether | 
+| rival51          | 10000 Bether | 
+| jokowaru         | 10000 Bether | 
+| said855          | 10000 Bether | 
+| lion0            | 10000 Bether | 
+| dekoslav         | 10000 Bether | 
+| klaraunusova     | 10000 Bether | 
+
+Congratulations to all the lottery winners, players will be contacted via E-mail with instructions on how to claim their prize!
