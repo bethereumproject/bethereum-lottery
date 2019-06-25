@@ -32,9 +32,4 @@ if __name__ == '__main__':
 
     jackpot_winner = draw(users)[0]
 
-    winners = list()
-
-    for _ in range(100):
-        winners.append(draw(users)[0])
-
-    print(json.dumps(dict(winners=winners, jackpot_winner=jackpot_winner), sort_keys=True))
+    print(json.dumps(dict(jackpot_winner=jackpot_winner), sort_keys=True))
