@@ -43,7 +43,7 @@ The output should be: `2ad7bb7fd4f1b100650300369244f797`
 ## Winners	
 
 ### Main prize winner	
-The player with the following username = `danny90` has won the **500k Bether token** prize!
+The player with the following username = `sergey5281zm` has won the **500k Bether token** prize!
 
 ### More winners	
 The players with the following usernames won **10000 Bether tokens** each. *You can use the CTRL+F (CMD+F on MacOS) command to find yourself in the winners table:*
